@@ -15,15 +15,11 @@
 	<div class="container">
 		<h3>TEST000 - UPDATE</h3>
 		<pre>TEST</pre>
+		<pre>join</pre>
+		<pre>login</pre>
+		<pre>master test</pre>
 
-		<h3>TEST000</h3>
-		<pre>test2</pre>
-<<<<<<< HEAD
-		<pre>예제 - branch login</pre>
-		<pre>예제 - branch master 테스트 </pre>
-=======
-		<pre>예제 - branch login </pre>
->>>>>>> refs/remotes/origin/master
+
 	</div>
 
 </body>
