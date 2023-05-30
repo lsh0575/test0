@@ -13,12 +13,7 @@
 </head>
 <body>
 	<div class="container">
-		<h3>TEST000 - UPDATE</h3>
-		<pre>TEST</pre>
-
-		<h3>TEST000</h3>
-		<pre>test2</pre>
-		<pre>예제 - branch login</pre>
+		<h3>기능개발</h3>
 	</div>
 
 </body>
